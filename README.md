@@ -62,6 +62,7 @@ src/app/services -> Serviços para consumo da API (listas, produtos, itens)
 ## 🔗 Integração com o Backend
 
 Certifique-se de que o backend (ListNest-API) esteja rodando corretamente e que os serviços estejam apontando para a URL correta da API.
+Link: ```https://github.com/thiago-cloud/ListNest_Backend```
 
 ## 👨‍💻 Desenvolvedor
 
